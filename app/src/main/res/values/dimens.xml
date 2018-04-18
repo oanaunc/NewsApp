@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dimensions -->
+    <dimen name="no">0dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="paddingText">20dp</dimen>
+    <dimen name="paddingSmallText">8dp</dimen>
+    <dimen name="paddingBorder">10dp</dimen>
+    <dimen name="paddingBorderTop">10dp</dimen>
+    <dimen name="minHeight">90dp</dimen>
+
+    <!-- Text -->
+    <dimen name="smallText">12sp</dimen>
+    <dimen name="mediumText">16sp</dimen>
+    <dimen name="largeText">20sp</dimen>
+</resources>

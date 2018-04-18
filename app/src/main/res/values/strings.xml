@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="no_news">The articles couldn\'t be displayed at this time. Please try again later.</string>
+    <string name="no_internet_connection">Please turn your internet connection on in order to read the latest news.</string>
+    <string name="browser_not_found">You have to install a browser for internet in order to read the entire article.</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News</string>
+
+
+    <string name="settings_books">Books</string>
+    <string name="settings_business">Business</string>
+    <string name="settings_development">Development</string>
+    <string name="settings_environment">Environment</string>
+    <string name="settings_food">Food</string>
+    <string name="settings_games">Games</string>
+    <string name="settings_media">Media</string>
+    <string name="settings_music">Music</string>
+    <string name="settings_podcasts">Podcasts</string>
+    <string name="settings_politics">Politics</string>
+    <string name="settings_science">Science</string>
+    <string name="settings_sport">Sport</string>
+    <string name="settings_tech">Tech</string>
+    <string name="settings_search_by">Search By</string>
+
+    <string name="error_response_code">Error response code: </string>
+    <string name="retrieving_json">There was a problem retrieving JSON results and the connection was not established.</string>
+    <string name="date_not_available">Date Not Available</string>
+    <string name="author_not_available">Author Not Available</string>
+    <string name="query_utils">QueryUtils</string>
+    <string name="problem_parsing_json">There was a problem parsing the JSON results.</string>
+    <string name="utf8">UTF-8</string>
+    <string name="get">GET</string>
+    <string name="url_bulding_problem">URL building problem.</string>
+    <string name="http_request_failed">HTTP request failed.</string>
+
+    <string name="web_title">webTitle</string>
+    <string name="tags">tags</string>
+    <string name="web_url">webUrl</string>
+    <string name="web_publication_date">webPublicationDate</string>
+    <string name="section_name">sectionName</string>
+    <string name="results">results</string>
+    <string name="response">response</string>
+
+    <string name="q">q</string>
+    <string name="show_tags">show-tags</string>
+    <string name="contributor">contributor</string>
+
+    <string name="apy_key">api-key</string>
+    <string name="my_key">f1fe43a0-c2e7-445c-bb4a-16e0805d7d3b</string>
+    <string name="request">https://content.guardianapis.com/search?order-by=newest&amp;show-tags=contributor&amp;page-size=20</string>
+
+    <string name="pattern_one">yyyy-MM-dd\'T\'HH:mm:ss</string>
+    <string name="pattern_two">EE dd MMM yyyy</string>
+
+
+</resources>

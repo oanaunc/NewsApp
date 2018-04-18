@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_by">
+        <item>@string/settings_books</item>
+        <item>@string/settings_business</item>
+        <item>@string/settings_development</item>
+        <item>@string/settings_environment</item>
+        <item>@string/settings_food</item>
+        <item>@string/settings_games</item>
+        <item>@string/settings_media</item>
+        <item>@string/settings_music</item>
+        <item>@string/settings_podcasts</item>
+        <item>@string/settings_politics</item>
+        <item>@string/settings_science</item>
+        <item>@string/settings_sport</item>
+        <item>@string/settings_tech</item>
+
+    </string-array>
+</resources>

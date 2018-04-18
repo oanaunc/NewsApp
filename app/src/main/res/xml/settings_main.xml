@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+
+
+    <ListPreference
+        android:defaultValue="@string/settings_title"
+        android:title="@string/settings_title"
+        android:entries="@array/settings_search_by"
+        android:key="@string/settings_search_by"
+        android:entryValues="@array/settings_search_by" />
+
+</PreferenceScreen>

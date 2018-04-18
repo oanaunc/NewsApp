@@ -1,0 +1,70 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/orange</item>
+        <item name="colorAccent">@color/light_gray</item>
+    </style>
+
+
+    <!-- Linear Layout base container theme. -->
+    <style name="BaseContainer" >
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/dark_gray</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingBottom">@dimen/paddingBorderTop</item>
+        <item name="android:paddingLeft">@dimen/paddingBorder</item>
+        <item name="android:paddingRight">@dimen/paddingBorder</item>
+        <item name="android:paddingTop">@dimen/paddingBorderTop</item>
+    </style>
+
+    <!-- Article Title theme. -->
+    <style name="ArticleTitle" >
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/black</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:padding">@dimen/paddingText</item>
+        <item name="android:textColor">@color/orange</item>
+        <item name="android:textSize">@dimen/largeText</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Article Category theme. -->
+    <style name="ArticleCategory" >
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:padding">@dimen/paddingSmallText</item>
+        <item name="android:textColor">@color/dark_gray</item>
+        <item name="android:textSize">@dimen/mediumText</item>
+    </style>
+
+    <!-- Article Details theme. -->
+    <style name="ArticleDetails" >
+        <item name="android:layout_width">@dimen/no</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:padding">@dimen/paddingSmallText</item>
+        <item name="android:textColor">@color/dark_gray</item>
+        <item name="android:textSize">@dimen/smallText</item>
+    </style>
+
+    <!-- Empty List theme. -->
+    <style name="EmptyList" >
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:textColor">@color/dark_gray</item>
+        <item name="android:textSize">@dimen/largeText</item>
+        <item name="android:padding">@dimen/padding</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+
+
+</resources>
